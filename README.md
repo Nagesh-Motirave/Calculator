@@ -12,7 +12,7 @@ This is a simple calculator built using HTML, CSS (Tailwind), and JavaScript.
 
 ## Live Demo
 
-https://nagesh-motirave.github.io/Calculator/
+https://nagesh-motirave.github.io/CodeAlphaCalculator/
 
 # Technologies Used
 
